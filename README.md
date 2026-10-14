@@ -21,7 +21,7 @@ if you run that same agent in a real company, it will mark offboarding tickets "
 
 ---
 
-## why we built asyncreconcile
+## why i built asyncreconcile
 
 we built asyncreconcile to expose and fix this exact gap.
 
